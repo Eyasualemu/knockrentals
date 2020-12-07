@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,CostPageMonth,ClientId,Address,Postal,Test,Module,SubModule,Vendor,Category,SubCat,Product,QTY
+1,Yes,,TC_01ContractManagementUIVerification,Verification of contract management UI and workflow,renuka.chintala@cigniti.com,hyderabad1234,January 2015 - February 2015,86245,160 Broadway,10038,Test,Administration,Edit Client,MetTel,Cloud Services,Cloud PBX,Cloud PBX Group,1

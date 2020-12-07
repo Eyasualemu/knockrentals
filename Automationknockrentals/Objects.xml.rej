@@ -1,0 +1,9 @@
+diff a/AutomationNUnit/AutomationNUnit/Objects.xml b/AutomationNUnit/AutomationNUnit/Objects.xml	(rejected hunks)
+@@ -4901,7 +4901,6 @@
+     <object>
+       <name>Table</name>
+       <identifyBy>xpath</identifyBy>
+-      <value>//table[@class='mettel-grid-table']/tbody/tr[1]</value>
+       <value>//div[@class='react-grid-Header']</value>
+     </object>
+     <object>

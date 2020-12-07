@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PageFactory>
+
+  <page title ="Login Page">
+
+    <object>
+      <name>ScheduleTourLink</name>
+      <identifyBy>XPATH</identifyBy>
+      <value>//button[contains(text(),'Schedule a Tour')]</value>
+    </object>
+
+    <object>
+      <name>BooktourBtn</name>
+      <identifyBy>XPATH</identifyBy>
+      <value>//button[contains(text(),'Book tour!')]</value>
+    </object>
+
+    
+  </page>
+
+</PageFactory>
+

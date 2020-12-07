@@ -1,0 +1,4 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Address,ClientName,Vendor
+1,Yes,,TC_35_SearchInvoiceWithAddressClientAndVendor,Search Invoice with Address Client and Vendor,renuka.chintala@cigniti.com,hyderabad12345,#OClientId,2200 Tanger,Agency,Verizon
+2,Yes,,TC_35_SearchInvoiceWithAddressClientAndVendor,Search Invoice with Address Client and Vendor,renuka.chintala@cigniti.com,hyderabad12345,#OClientId,2 Folsom,GAP,Windstream
+

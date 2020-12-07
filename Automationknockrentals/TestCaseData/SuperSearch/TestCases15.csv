@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,WTN_Num,Hierarchy
+1,Yes,,TC_15_SearchHierarchyAndWTNWhichBelongsToAnotherClient,Search for hierarchy and WTN which belongs to another Client,renuka.chintala@cigniti.com,hyderabad12345,METTEL/NEW YORK,9738177782,FSIS

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId,Address
+1,Yes,,TC_18_VerifyUserCanScrollDownInventoryTabResultsAndSortColumns,Verify user can scroll down the Inventory tab results and sort the columns,renuka.chintala@cigniti.com,hyderabad12345,#OClientId,55 water st

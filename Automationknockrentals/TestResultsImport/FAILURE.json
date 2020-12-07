@@ -1,0 +1,12 @@
+{
+	"testExecutionKey" : "$testExecutionKey",
+    "tests" : [
+        {
+            "testKey" : "$testKey",
+			      "start" : "2019-04-02T18:20:35+01:00",
+            "finish" : "2019-04-02T18:50:56+01:00",
+            "comment" : "Some Server Status returned Error. Please check on the teamcity build to get more detail result.",
+            "status" : "FAILED"
+        }
+    ]
+}

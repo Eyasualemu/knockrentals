@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,InternalPassword,ClientId
+1,Yes,,TC_21_VerifyHeaderOptionsInManagePage,Verify the header options in the manage page,renuka.chintala@cigniti.com,hyderabad12345,9994
